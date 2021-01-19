@@ -54,9 +54,9 @@ just get a list of all the logs that have been emitted from the container.
 
 ![alt text](./assets/stop.jpg "Stop")
 
-#### **A hardware signal is sent to the primary process inside that container. This gives us**
-#### **a little bit of time to do a little bit of cleanup by listening to this signal before** 
-#### **officially shutting down.**
+A hardware signal is sent to the primary process inside that container. This gives us
+a little bit of time to do a little bit of cleanup by listening to this signal before
+officially shutting down.
 
 &nbsp;
 
@@ -64,4 +64,4 @@ just get a list of all the logs that have been emitted from the container.
 
 ![alt text](./assets/kill.jpg "Kill")
 
-#### **Does not give any extra time to cleanup and the process is immediately shutdown**
+Does not give any extra time to cleanup and the process is immediately shutdown
