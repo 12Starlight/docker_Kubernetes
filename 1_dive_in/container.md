@@ -27,3 +27,12 @@
 &nbsp;
 
 ![alt text](./assets/resources_used.jpg "Using resources")
+
+&nbsp;
+
+### **However a `Kernal` is part of <kbd>Linux</kbd> operating system. So, how is it**
+### **<kbd>Docker</kbd> is running on my Mac?**
+
+&nbsp;
+
+![alt text](./assets/linux_virtual.jpg "Linux Virtual Machine")
