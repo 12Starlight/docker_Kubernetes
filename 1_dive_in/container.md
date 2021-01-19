@@ -4,7 +4,7 @@
 
 &nbsp;
 
-![alt text](./container.jpg "Container")
+![alt text](./assets/container.jpg "Container")
 
 &nbsp;
 
@@ -14,11 +14,11 @@
 
 &nbsp;
 
-![alt text](./image_container.jpg "image container relationship")
+![alt text](./assets/image_container.jpg "image container relationship")
 
 &nbsp;
 
-![alt text](./image.jpg "Image") 
+![alt text](./assets/image.jpg "Image") 
 
 &nbsp;
 
@@ -26,4 +26,4 @@
 
 &nbsp;
 
-![alt text](./resources_used.jpg "Using resources")
+![alt text](./assets/resources_used.jpg "Using resources")
