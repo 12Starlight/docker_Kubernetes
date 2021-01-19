@@ -26,3 +26,17 @@ you want to run agian with the start command.
 
 <kbd>docker system prune</kbd> ~ Deletes all stopped containers and caches.
 
+&nbsp;
+
+### **If we forgot to add the `-a` we can get around it with**
+
+![alt text](./assets/logs.jpg "Logs")
+
+&nbsp;
+
+![alt text](./assets/logs_example.jpg "Logs example")
+
+&nbsp;
+
+Note: One thing to keep in mind is that the container does not get ran again, we
+just get a list of all the logs that have been emitted from the container. 
